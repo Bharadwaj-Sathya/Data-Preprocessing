@@ -1,0 +1,11 @@
+Merchants,Age,Amount,Purchased
+Bharadwaj,44,72000,No
+Rahul,27,48000,Yes
+Sanath,30,54000,No
+Rahul,38,61000,No
+Sanath,40,,Yes
+Bharadwaj,35,58000,Yes
+Rahul,,52000,No
+Bharadwaj,48,79000,Yes
+Sanath,50,83000,No
+Bharadwaj,37,67000,Yes
